@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+html {
+  font-family: "Roboto", sans-serif;
+}
+
 .container {
   width: 1140px;
   margin: 0 auto;
@@ -22,7 +26,6 @@
 }
 
 .logo_text {
-  font-family: "Roboto";
   font-style: normal;
   color: #ffffff;
   font-weight: 500;
@@ -33,7 +36,6 @@
 }
 
 .title_yellow {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
   font-size: 41px;
@@ -45,7 +47,7 @@
 }
 
 .title_big {
-  font-family: "Roboto";
+  text-transform: uppercase;
   font-style: normal;
   font-weight: 900;
   font-size: 80px;
@@ -56,7 +58,6 @@
 }
 
 .info {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 21px;
@@ -74,7 +75,6 @@
   background: linear-gradient(0deg, #2798b9 0%, #3ab6da 100%);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
 
-  font-family: "RobotoCondensed";
   font-size: 21px;
 
   color: #ffffff;
@@ -89,7 +89,6 @@
   margin-top: 70px;
 }
 .more_text {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 100;
   font-size: 15px;
@@ -106,7 +105,6 @@
 }
 
 .waiting_title {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -117,7 +115,6 @@
 }
 
 .sub_title {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 23px;
@@ -152,7 +149,6 @@
 
 .waiting_text {
   margin-top: 13px;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -165,7 +161,6 @@
   padding: 100px 0;
 }
 .optimization_title {
-  font-family: "Roboto";
   font-style: normal;
   margin-left: 391px;
   font-weight: 900;
@@ -178,7 +173,6 @@
 .optimization_text {
   margin-left: 391px;
   margin-top: 25px;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 17px;
@@ -207,7 +201,6 @@
   width: 204px;
 }
 .study_title {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -217,7 +210,6 @@
   color: #efefef;
 }
 .study_text {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 17px;
@@ -235,7 +227,6 @@
   margin: 0 auto;
 }
 .gift_text {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -258,7 +249,6 @@
   align-items: center;
 }
 .vebinar_title {
-  font-family: "Roboto";
   margin-top: 36px;
   font-style: normal;
   font-weight: 400;
@@ -270,7 +260,6 @@
 }
 .vebinar_date {
   margin-top: 36px;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
   font-size: 30px;
@@ -281,7 +270,6 @@
 }
 .vebinar_sub {
   margin-top: 25px;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 23px;
@@ -296,7 +284,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -307,7 +294,6 @@
   display: flex;
 }
 .link {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
